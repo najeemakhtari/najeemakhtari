@@ -11,7 +11,6 @@ education: "Bachelor in Software Engineering",
 certificate: "Meta Professional Frontend Certified",
 learning: "next.js & softskills",
 myPortfolio: "www.najeemakhtari.com",
-
 }
 ```
 
