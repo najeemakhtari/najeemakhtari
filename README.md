@@ -1,6 +1,6 @@
 <h2>Hi There! I'm Najeem Akhtari 🖐</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="600px" />
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
