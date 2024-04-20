@@ -1,4 +1,5 @@
-# Welcome to my Github account | Willkommen auf meinem Github Konto 🙌
+# Welcome to my Github account 🙌
+# Willkommen auf meinem Github Konto 🙌
 
 ### About me
 
