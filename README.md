@@ -9,7 +9,7 @@ job: "Frontend coach in bemLearn academy",
 job2: "React Developer in DPA holding",
 education: "Bachelor in Software Engineering",
 certificate: "Meta Professional Frontend Certified",
-learning: "next.js & softskills",
+learning: "nextJS & softskills",
 myPortfolio: "www.najeemakhtari.com",
 }
 ```
