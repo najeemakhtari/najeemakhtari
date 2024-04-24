@@ -10,7 +10,7 @@ job2: "React Developer in DPA holding",
 education: "Bachelor in Software Engineering",
 certificate: "Meta Professional Frontend Certified",
 learning: "nextJS & softskills",
-myPortfolio: "www.najeemakhtari.com",
+myPortfolio: "www.najeemakhtari.io",
 }
 ```
 
